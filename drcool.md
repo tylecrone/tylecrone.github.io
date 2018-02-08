@@ -13,7 +13,7 @@
 		Well, you've come to the right place!
 		Looks like you need to hire:
 		</P>
-		<H2><B>DR. COOL, P.H.D</B></H2>
+		<H2><B>DR. COOL, P.H.D.</B></H2>
 		<P>
 		You're probably wondering to yourself:
 		But Mr. Cool, how exactly <I>did</I> you get so cool?
