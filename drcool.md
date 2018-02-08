@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<H1{text align: center}>Dr. Cool</H1>
+		<H1>Dr. Cool</H1>
 		<H2><B>Professional Cool Guy for Hire</B></H2>
 	</head>
 	<body>
