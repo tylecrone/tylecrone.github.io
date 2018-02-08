@@ -25,7 +25,7 @@
 			<P><L3><B>Doubtfully-Medically-Licensed.</B></L3></P>
 		</UL>
 		So, if you disrespect the P.H.D. again, I'm gonna personally go to your school and/or place of work
-		and tell everybody that you like to go to the zoo on the weekends and push kids into the tiger cages for fun.
+		and tell everybody that you like to go to the zoo on the weekends and push kids into the tiger cages for fun.</P>
 			<P><B>You sick bastard.</B></P>
 		Secondly, I don't like to be questioned,
 		so how about you quit with the jabber-jaw
