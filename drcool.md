@@ -20,9 +20,9 @@
 		Well, first off, hot-shot, it's <B>Dr.</B> Cool.
 		That P.H.D. stands for:
 		<UL>
-			<L1><B>Powerful,</B></L1>
-			<L2><B>Helpful</B> and</L2>
-			<L3><B>Doubtfully-Medically-Licensed.</B></L3>
+			<P><L1><B>Powerful,</B></L1></P>
+			<P><L2><B>Helpful</B> and</L2></P>
+			<P><L3><B>Doubtfully-Medically-Licensed.</B></L3></P>
 		</UL>
 		So, if you disrespect the P.H.D. again, I'm gonna personally go to your school and/or place of work
 		and tell everybody that you like to go to the zoo on the weekends and push kids into the tiger cages for fun, you sick bastard.
