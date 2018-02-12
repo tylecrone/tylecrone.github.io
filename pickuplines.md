@@ -15,4 +15,4 @@
 		<p>Who's there?</p>
 		<p><b>Cumquat</b></p>
 		<p>Cumquat who?</p>
-		<p>Come, Quat, to my place and we'll have a real good time girl. <i>(This will only work if you meet a girl named Quat)</i></p>
+		<p><b>Come, Quat, to my place and we'll have a real good time girl.</b> <i>(This will only work if you meet a girl named Quat)</i></p>
