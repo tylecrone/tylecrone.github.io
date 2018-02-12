@@ -4,7 +4,8 @@
 		<h1>Dr. Cool's Fool-Proof Pick Up Lines</h1>
 	</head>
 	<body>
-		<P><b>Knock Knock</b></p>
+		<h2>One:</h2>
+		<p><b>Knock Knock</b></p>
 		<p>Who's there?</p>
 		<p><b>Hey</b></p>
 		<p>Hey who?</p>
