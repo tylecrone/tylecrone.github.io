@@ -8,5 +8,5 @@
 		<p>Who's there?</p>
 		<p><b>Hey</b></p>
 		<p>Hey who?</p>
-		<p><b>Hey you, wanna go on a date with me? Yo, don't say no, my friends are watching.</b></p>
+		<p><b>Hey you, wanna go on a date with me? If you say no, though, just know that I'm gonna tell all my friends that I thought you looked fatter up close so I dumped you. So, uh... Is that a yes?</b></p>
 		
