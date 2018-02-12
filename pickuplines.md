@@ -16,3 +16,9 @@
 		<p><b>Cumquat</b></p>
 		<p>Cumquat who?</p>
 		<p><b>Come, Quat, to my place and we'll have a real good time girl.</b> <i>(This will only work if you meet a girl named Quat)</i></p>
+		<h2>Three:</h2>
+		<p><b>Knock Knock</b></p>
+		<p>Who's there?</p>
+		<p><b>Dumbo</b></p>
+		<p>Dumbo who?</p>
+		<p><b>Dumb ho is what the other guys will call you, but I see you for the intellectuous ho you really are.</b></p>
