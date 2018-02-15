@@ -21,5 +21,5 @@
 		<p>Who's there?</p>
 		<p><b>Mahdadza</b></p>
 		<p>Mahdadza who?</p>
-		<p><b>Mahdadza cop so if you don't go out with me he could put you in jail. So, like, think about it...</b></p>
+		<p><b>Mahdadza cop so if you don't go out with me he could like totally put you in jail and stuff. So, like, think about it...</b></p>
 		<p><h3>For more of the doctor's fool-proof pickup lines, text COOL to 800-8135 now to begin your paid subscription to Dr. Cool's hit magazine: <b>Dr. Cool's Dating Advice/Cookbook for the Elderly</b></h3></p>
