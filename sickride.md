@@ -9,3 +9,4 @@
     <p>If you're interested in donating to a worthwhile cause, you can email Dr. Cool now at doctorcool@cool.cool right now and he will send you his personal checking account number so you can deposit money to his account <b>today</b>! Here are just a few personal stretch goals!
       <p><IMG SRC="toy car.jpg"> <h2>$5</h2></p>
       <p><img src="cozy coupe.jpg"> <h2>$50</h2></p>
+  <p><img src="cheap car.jpg">  <h2>$500</h2></p>
