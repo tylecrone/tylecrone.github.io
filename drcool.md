@@ -41,8 +41,6 @@
 		in your quest towards coolness:
 		<UL>
 			<P><L1><A HREF="">Dr. Cool's Fool-Proof Pick Up Lines</A></L1></P>
-			<P><L2>Want to get your black-belt in kool-rate?
-			Train with Sensei Cool now, at the <A HREF="">Mojo Dojo</A>!</L2></P>
 			<P><L3>They say a man is only as cool as his ride. <A HREF="">Check out Dr. Cool's wheels now</A>, and see how cool he is for yourself!</L3></P>
 			<P><L4>Take a look at some of <a href="">Dr. Cool's reviews</a> yourself!</P>
 	</body>
