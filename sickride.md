@@ -10,3 +10,4 @@
       <p><IMG SRC="toy car.jpg"> <h2>$5</h2></p>
       <p><img src="cozy coupe.jpg"> <h2>$50</h2></p>
   <p><img src="Cheap Car.jpg">  <h2>$500</h2></p>
+  <p><img src="Good Car.jpg"> <h2>$5000</h2></p>
